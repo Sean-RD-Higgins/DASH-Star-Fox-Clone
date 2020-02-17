@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Tutorial">
+</Property><Property Name="Solution File" Value="C:\Users\Seansuke\Saved Games\OpenGL\tutorial\crabpong\Tutorial\Tutorial.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Seansuke\Saved Games\OpenGL\tutorial\crabpong\Tutorial\Tutorial.suo">
+</Property><Property Name="Date" Value="Wednesday, July 21, 2010">
+</Property><Property Name="Time" Value="16:37 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Tutorial.sln" Description="File successfully backed up as C:\Users\Seansuke\Saved Games\OpenGL\tutorial\crabpong\Tutorial\Tutorial.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="Tutorial.suo" Description="File successfully backed up as C:\Users\Seansuke\Saved Games\OpenGL\tutorial\crabpong\Tutorial\Tutorial.suo.old">
+</Event><Event ErrorLevel="0" Project="Tutorial" Source="Tutorial\Tutorial.vcproj" Description="Converting project file 'C:\Users\Seansuke\Saved Games\OpenGL\tutorial\crabpong\Tutorial\Tutorial\Tutorial.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Tutorial" Source="Tutorial\Tutorial.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="Tutorial" Source="Tutorial\Tutorial.vcproj" Description="Done converting to new project file 'C:\Users\Seansuke\Saved Games\OpenGL\tutorial\crabpong\Tutorial\Tutorial\Tutorial.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Tutorial" Source="Tutorial\Tutorial.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Tutorial.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Tutorial.sln" Description="Converted">
+</Event></UpgradeLog>

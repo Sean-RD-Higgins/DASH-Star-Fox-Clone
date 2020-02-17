@@ -18,4 +18,4 @@ Bearing left/right: J L
 Barrel Roll left/right: U O
 Boost/Brake: I K
 
-Please send all bugs/glitches/errors to: sean.rd.higgins@gmail.com
+Send all bugs/glitches/errors to: http://www.facebook.com/#!/seansuke
